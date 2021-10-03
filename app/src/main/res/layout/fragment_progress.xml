@@ -35,7 +35,7 @@
         <CheckBox
             android:id="@+id/checkbox_1"
             style="@style/CustomCheckbox02"
-            android:layout_width="281dp"
+            android:layout_width="270dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:checked="false"
@@ -46,42 +46,46 @@
         <CheckBox
             android:id="@+id/checkbox_2"
             style="@style/CustomCheckbox02"
-            android:layout_width="235dp"
+            android:layout_width="270dp"
             android:layout_height="wrap_content"
             android:checked="false"
             android:layout_gravity="center"
             android:layoutDirection="rtl"
-            android:text="@string/title_progress_example" />
+            android:text="@string/title_progress_example"
+            android:textSize="20sp" />
 
         <CheckBox
             android:id="@+id/checkbox_3"
             style="@style/CustomCheckbox02"
-            android:layout_width="235dp"
+            android:layout_width="270dp"
             android:layout_height="wrap_content"
             android:checked="false"
             android:layout_gravity="center"
             android:layoutDirection="rtl"
-            android:text="@string/title_progress_example" />
+            android:text="@string/title_progress_example"
+            android:textSize="20sp" />
 
         <CheckBox
             android:id="@+id/checkbox_4"
             style="@style/CustomCheckbox02"
-            android:layout_width="235dp"
+            android:layout_width="270dp"
             android:layout_height="wrap_content"
             android:checked="false"
             android:layout_gravity="center"
             android:layoutDirection="rtl"
-            android:text="@string/title_progress_example" />
+            android:text="@string/title_progress_example"
+            android:textSize="20sp" />
 
         <CheckBox
             android:id="@+id/checkbox_5"
             style="@style/CustomCheckbox02"
-            android:layout_width="235dp"
+            android:layout_width="270dp"
             android:layout_height="wrap_content"
             android:checked="false"
             android:layout_gravity="center"
             android:layoutDirection="rtl"
-            android:text="@string/title_progress_example" />
+            android:text="@string/title_progress_example"
+            android:textSize="20sp" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
