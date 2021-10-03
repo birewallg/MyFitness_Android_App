@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_progress"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="@string/title_progress" />
+
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/title_calendar" />
+
+    <item
+        android:id="@+id/navigation_recipes"
+        android:icon="@android:drawable/sym_contact_card"
+        android:title="@string/title_recipes" />
+
+</menu>

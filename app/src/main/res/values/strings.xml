@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFitness</string>
+
+    <string name="title_progress">My Progress</string>
+    <string name="title_calendar">My Calendar</string>
+    <string name="title_recipes">My Recipes</string>
+    <string name="title_progress_example">title_progress_example</string>
+</resources>
