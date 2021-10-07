@@ -5,4 +5,7 @@
     <string name="title_calendar">My Calendar</string>
     <string name="title_recipes">My Recipes</string>
     <string name="title_progress_example">title_progress_example</string>
+
+    <string name="what_s_your">What's your progress for today?</string>
+    <string name="vacuum">Vacuum</string>
 </resources>
