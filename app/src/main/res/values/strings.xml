@@ -6,6 +6,12 @@
     <string name="title_recipes">My Recipes</string>
     <string name="title_progress_example">title_progress_example</string>
 
-    <string name="what_s_your">What's your progress for today?</string>
-    <string name="vacuum">Vacuum</string>
+    <string name="what_s_your">What\'s your progress for today?</string>
+    <string name="ch_vacuum">Vacuum</string>
+    <string name="ch_water">Water</string>
+    <string name="ch_food">Healthy food</string>
+    <string name="ch_workout">Workout</string>
+    <string name="ch_massage">Massage</string>
+    <string name="ch_steps">10000 steps</string>
+    <string name="ch_sleep">Healthy sleep</string>
 </resources>
