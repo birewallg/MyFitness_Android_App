@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <style name="CustomCheckbox02" parent="@style/Widget.AppCompat.CompoundButton.CheckBox">
         <item name="android:button">@drawable/checkbox_selector</item>
         <item name="android:background">@android:color/transparent</item>
     </style>
+
     <style name="what_s_your">
         <item name="android:textSize">23sp</item>
         <item name="android:textColor">#FFFFFF</item>
@@ -12,8 +14,18 @@
         <item name="android:shadowDy">4</item>
         <item name="android:shadowRadius">4</item>
     </style>
+
     <style name="vacuum">
         <item name="android:textSize">24sp</item>
         <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="myprogress">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#80000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">4</item>
     </style>
 </resources>

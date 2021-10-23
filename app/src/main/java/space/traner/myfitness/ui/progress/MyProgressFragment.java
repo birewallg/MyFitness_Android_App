@@ -1,13 +1,13 @@
 package space.traner.myfitness.ui.progress;
 
-import static space.traner.myfitness.ui.config.Config.APP_PREFERENCES;
-import static space.traner.myfitness.ui.config.Config.APP_PREFERENCES_CHECK_1_VACUUM;
-import static space.traner.myfitness.ui.config.Config.APP_PREFERENCES_CHECK_2_WATER;
-import static space.traner.myfitness.ui.config.Config.APP_PREFERENCES_CHECK_3_FOOT;
-import static space.traner.myfitness.ui.config.Config.APP_PREFERENCES_CHECK_4_WORKOUT;
-import static space.traner.myfitness.ui.config.Config.APP_PREFERENCES_CHECK_5_MASSAGE;
-import static space.traner.myfitness.ui.config.Config.APP_PREFERENCES_CHECK_6_STEPS;
-import static space.traner.myfitness.ui.config.Config.APP_PREFERENCES_CHECK_7_SLEEP;
+import static space.traner.myfitness.config.Config.APP_PREFERENCES;
+import static space.traner.myfitness.config.Config.APP_PREFERENCES_CHECK_1_VACUUM;
+import static space.traner.myfitness.config.Config.APP_PREFERENCES_CHECK_2_WATER;
+import static space.traner.myfitness.config.Config.APP_PREFERENCES_CHECK_3_FOOT;
+import static space.traner.myfitness.config.Config.APP_PREFERENCES_CHECK_4_WORKOUT;
+import static space.traner.myfitness.config.Config.APP_PREFERENCES_CHECK_5_MASSAGE;
+import static space.traner.myfitness.config.Config.APP_PREFERENCES_CHECK_6_STEPS;
+import static space.traner.myfitness.config.Config.APP_PREFERENCES_CHECK_7_SLEEP;
 
 import android.content.Context;
 import android.content.SharedPreferences;

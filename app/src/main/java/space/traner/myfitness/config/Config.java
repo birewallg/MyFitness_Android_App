@@ -1,4 +1,4 @@
-package space.traner.myfitness.ui.config;
+package space.traner.myfitness.config;
 
 public class Config {
     /**/
