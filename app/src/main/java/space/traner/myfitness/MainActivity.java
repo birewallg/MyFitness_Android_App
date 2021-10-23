@@ -43,6 +43,4 @@ public class MainActivity extends AppCompatActivity {
 
         startService(new Intent(this, UpdateService.class));
     }
-
-
 }
